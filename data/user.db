@@ -1,0 +1,16 @@
+{"name":"Alain","firstname":"Holzhausers","email":"alain@aholzhauser.ch","pwd":"$2b$10$oP52MTYuurw8cxjMLCTY/Og1yqP/d.F4OOlhlz8NgRQQpa5byU9Eu","type":"admin","_id":"00crcwDLlQ3Xmbbb"}
+{"name":"Roland","firstname":"Stauffer","email":"roland.stauffer@gmail.com","pwd":"$2b$10$uos4LDkZVixKRHs4m7e1d.RvJ08QcdWtTWuqHy9uEKVhKUvxbf6KO","type":"admin","_id":"01crcwDLlQ3Xmbbb"}
+{"firstname":"Colozone","name":"Tressa","email":"tressa.colozone@earth.com","pwd":"$2b$10$HUAQbrzkRsi2qIl3QbrFBu.bAyPhZLsC8B/rTwdHpM8hkTtkdbbDC","type":"customer","_id":"2ow7vfE5c2JTnncO"}
+{"firstname":"Losstarot","name":"Sydney","email":"sydney.losstarot@earth.com","pwd":"$2b$10$6o5ZFf2p5aLSq9eSJNKg3u0n4bFgWTEzzpP3qfCw7up0nkXkaiCsW","type":"customer","_id":"98IizQGfDN7Yccia"}
+{"firstname":"Eisenberg","name":"Olberic","email":"olberic.eisenberg@earth.com","pwd":"$2b$10$9b8u5l7T3ri6.ij8WqAvuO3vQP2nmbEN2wTO4CTq8oO/741Ld/yMa","type":"customer","_id":"GCvioQFw6JRsigbK"}
+{"firstname":"Azelhart","name":"Primrose","email":"primrose.azelhart@earth.com","pwd":"$2b$10$wjIjtY1BkjybCdJdf7EQNOhazzBG6Px5s9ChNoCzPpSy8zW8JrqgC","type":"customer","_id":"RPKPUttYO32Gh1gF"}
+{"firstname":"Bardorba","name":"Aldous Byron","email":"aldousbyron.bardorba@earth.com","pwd":"$2b$10$SgBx.sPMVTYlo/uBXhC5OeX5MNLQkXf1hHIc1PJlCx.eIY4l7DdxC","type":"customer","_id":"X6agwpzFdY8NWx8X"}
+{"firstname":"Guildenstern","name":"Romeo","email":"romeo.guildenstern@earth.com","pwd":"$2b$10$8bMkw1bISzx.hUeUXeusguTZv1dQ4x1c1XpZbcKYkTDxPoE3KP28.","type":"customer","_id":"XTYjhSorfYeAPS3s"}
+{"firstname":"Rosencrantz","name":"Jan","email":"jan.rosencrantz@earth.com","pwd":"$2b$10$kBrvswUdW3K4r4IpYDE4vubH0sWVt7MkalsBF.KOQI.s1u2Lc7d9W","type":"customer","_id":"ehUIryvi8MT3PqJ3"}
+{"firstname":"Merlose","name":"Callo","email":"callo.merlose@earth.com","pwd":"$2b$10$f9g/7aeTolh9V5Psl1Viu.S.bZomGVUY6p3e/QH75djDXDDveNvmS","type":"customer","_id":"fn6QmclBq5lyU6jE"}
+{"firstname":"Riot","name":"Ashley","email":"ashley.riot@earth.com","pwd":"$2b$10$uI0vw/cc5QZnuqbP4jO42uE8nDF.DE9LQqwz7880n283hJ.hYeoyq","type":"customer","_id":"ipFfwxoxCLPdiKvN"}
+{"firstname":"Bardorba","name":"Joshua Corrinne","email":"joshuacorrinne.bardorba@earth.com","pwd":"$2b$10$45NAprFRKKdv.ck24Uamd.NhGvPLuDFD/QSGafswHdBcfK5bjqrO2","type":"customer","_id":"jinSodPMLQU456AW"}
+{"firstname":"Retnuh","name":"Haanit","email":"haanit.retnuh@earth.com","pwd":"$2b$10$RSZGWR4ws1ExZBOevKh1Q.a4rXHV1vOKGHx31tRkJAW5BGv1DlPb.","type":"customer","_id":"u6wjPaVCG0KcgfsS"}
+{"firstname":"Feiht","name":"Therion","email":"therion.feiht@earth.com","pwd":"$2b$10$SM32D5bSc/Ex103RNbIQ/eLGyv9YFo4TwCG5WsaooVPEZ3BiN4a3q","type":"customer","_id":"ud39ifreiRfYPZmX"}
+{"firstname":"Hardin","name":"John","email":"john.hardin@earth.com","pwd":"$2b$10$uc3.LxFWArv1Ln8r2I2dnOJloBa2Cs7QLa3RGNZPwqt75uxTqRyK2","type":"customer","_id":"veEgVxQbWfGLbdKE"}
+{"firstname":"Greengrass","name":"Alfyn","email":"alfyn.greengrass@earth.com","pwd":"$2b$10$ME02Mx7McQT9FXaey7U.peXpx50T9oTFvTxcCy3VLuGI3qUc3TncS","type":"customer","_id":"ywiCyGnTwlhd5nQI"}
