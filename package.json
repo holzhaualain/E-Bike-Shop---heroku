@@ -6,12 +6,13 @@
   "version": "0.0.1",
   "author": "Roland Stauffer",
   "scripts": {
-    "start backend": "node -r babel-register \"server.js\""
+    "start backend": "node -r babel-register \"start.js\""
   },
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "1.18.x",
     "dateformat": "3.0.3",
+    "esm": "^3.2.25",
     "express": "4.16.3",
     "express-authentication": "^0.3.2",
     "nedb-promise": "^2.0.1",
@@ -19,6 +20,10 @@
     "uid-generator": "1.0.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
     "@types/express": "^4.17.1",
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.8",

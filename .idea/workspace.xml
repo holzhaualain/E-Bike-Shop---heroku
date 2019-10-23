@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a47a4325-6ecf-47fd-be01-a7a74db1f74a" name="Default Changelist" comment="" />
+    <list default="true" id="a47a4325-6ecf-47fd-be01-a7a74db1f74a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/shoppingbasket.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/shoppingbasket.db" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +50,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.server.js">
     <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r babel-register" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="start backend" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start backend" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start backend" />
         <item itemvalue="Node.js.server.js" />
       </list>
     </recent_temporary>
@@ -86,6 +99,8 @@
       <workItem from="1561546473401" duration="684000" />
       <workItem from="1571729397360" duration="600000" />
       <workItem from="1571731276536" duration="2035000" />
+      <workItem from="1571733869624" duration="563000" />
+      <workItem from="1571815836825" duration="83000" />
     </task>
     <servers />
   </component>

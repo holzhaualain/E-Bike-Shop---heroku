@@ -1,7 +1,7 @@
 {"shoppingBasketDate":{"$$date":1554879021791},"items":[],"totalSum":0,"_id":"02gyBVp9rl80AUNi"}
 {"shoppingBasketDate":{"$$date":1554821907134},"items":[{"articleID":"xEUehKXKxYo0001","articleName":"E-Bike Modell 1","articleBrand":"Superbike","articlePrice":1000.35,"imageURL":"image/bikeOrigin_clone_pixelated_1.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000001","articlePriceSum":1000.35,"articleQueryParameter":"Superbike-E-Bike-Modell-1"}],"totalSum":1000.35,"_id":"0EU3RVcSEZeir7E9"}
 {"shoppingBasketDate":{"$$date":1554877182160},"items":[{"articleID":"xEUehKXKxYo0001","articleName":"E-Bike Modell 1","articleBrand":"Superbike","articlePrice":1000.35,"imageURL":"image/bikeOrigin_clone_pixelated_1.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000001","articlePriceSum":1000.35,"articleQueryParameter":"Superbike-E-Bike-Modell-1"}],"totalSum":1000.35,"_id":"0hLbxjKGLBkMDrfJ"}
-{"shoppingBasketDate":{"$$date":1554821631816},"items":[{"articleID":"xEUehKXKxYo0002","articleName":"E-Bike Modell 2","articleBrand":"Superbike","articlePrice":2000.05,"imageURL":"image/bikeOrigin_clone_pixelated_2.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000002","articlePriceSum":2000.05,"articleQueryParameter":"Superbike-E-Bike-Modell-2"}],"totalSum":2000.05,"_id":"1EyLZVqNZSfZTYSJ"}
+{"shoppingBasketDate":{"$$date":1554821631816},"items":[],"totalSum":0,"_id":"1EyLZVqNZSfZTYSJ"}
 {"shoppingBasketDate":{"$$date":1554879313844},"items":[{"articleID":"xEUehKXKxYo0001","articleName":"E-Bike Modell 1","articleBrand":"Superbike","articlePrice":1000.35,"imageURL":"image/bikeOrigin_clone_pixelated_1.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000001","articlePriceSum":1000.35,"articleQueryParameter":"Superbike-E-Bike-Modell-1"}],"totalSum":1000.35,"_id":"3Bhs5DIk9fclopRW"}
 {"shoppingBasketDate":{"$$date":1554877046195},"items":[],"totalSum":0,"_id":"7BhjW2AX7E0gVp37"}
 {"shoppingBasketDate":{"$$date":1554821829058},"items":[],"totalSum":0,"_id":"9yXcmEMolSMPEHWu"}
@@ -25,6 +25,7 @@
 {"shoppingBasketDate":{"$$date":1554877968827},"items":[],"totalSum":0,"_id":"T9cDQZEIPYAvXlVg"}
 {"shoppingBasketDate":{"$$date":1554877991708},"items":[{"articleID":"xEUehKXKxYo0001","articleName":"E-Bike Modell 1","articleBrand":"Superbike","articlePrice":1000.35,"imageURL":"image/bikeOrigin_clone_pixelated_1.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000001","articlePriceSum":1000.35,"articleQueryParameter":"Superbike-E-Bike-Modell-1"}],"totalSum":1000.35,"_id":"Tp9llqdNsTCzTWlY"}
 {"shoppingBasketDate":{"$$date":1554821889077},"items":[],"totalSum":0,"_id":"Ua23qnNi4RQsv5v2"}
+{"shoppingBasketDate":{"$$date":1571815879914},"items":[],"totalSum":0,"_id":"VJfJByrDL2554O3K"}
 {"shoppingBasketDate":{"$$date":1554821901530},"items":[],"totalSum":0,"_id":"VNgrWs3lHRNAF8UF"}
 {"shoppingBasketDate":{"$$date":1554878037470},"items":[],"totalSum":0,"_id":"WdftyyHJfC4SHre0"}
 {"shoppingBasketDate":{"$$date":1554876124958},"items":[],"totalSum":0,"_id":"XULqcNjfvLcNJJMi"}
@@ -58,4 +59,3 @@
 {"shoppingBasketDate":{"$$date":1554821852565},"items":[],"totalSum":0,"_id":"xseZNRFDcqumrq24"}
 {"shoppingBasketDate":{"$$date":1554879126895},"items":[{"articleID":"xEUehKXKxYo0001","articleName":"E-Bike Modell 1","articleBrand":"Superbike","articlePrice":1000.35,"imageURL":"image/bikeOrigin_clone_pixelated_1.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000001","articlePriceSum":1000.35,"articleQueryParameter":"Superbike-E-Bike-Modell-1"}],"totalSum":1000.35,"_id":"yqj4B49WXBh2xPDf"}
 {"shoppingBasketDate":{"$$date":1554879227196},"items":[{"articleID":"xEUehKXKxYo0001","articleName":"E-Bike Modell 1","articleBrand":"Superbike","articlePrice":1000.35,"imageURL":"image/bikeOrigin_clone_pixelated_1.jpg","articleAvailability":false,"articleAmount":1,"itemNumber":"10000001","articlePriceSum":1000.35,"articleQueryParameter":"Superbike-E-Bike-Modell-1"}],"totalSum":1000.35,"_id":"z2N5YQiLXBI9HTei"}
-{"shoppingBasketDate":{"$$date":1554821631816},"items":[],"totalSum":0,"_id":"1EyLZVqNZSfZTYSJ"}
