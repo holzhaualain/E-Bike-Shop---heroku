@@ -6,7 +6,8 @@
   "version": "0.0.1",
   "author": "Roland Stauffer",
   "scripts": {
-    "start backend": "node -r babel-register \"start.js\""
+    "start backend": "node start.js",
+    "start": "node start.js"
   },
   "dependencies": {
     "bcrypt": "^3.0.6",
