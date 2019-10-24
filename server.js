@@ -2,9 +2,9 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import path from 'path';
-import {Logger} from 'commons/Logger';
-import {RouterWebShop} from 'router/RouterWebshop';
-import {RouterWebShopFrontend} from 'router/RouterWebshopFrontend';
+import {Logger} from './commons/Logger';
+import {RouterWebShop} from './router/RouterWebshop';
+import {RouterWebShopFrontend} from './router/RouterWebshopFrontend';
 
 class WebShopBackend {
     constructor() {
