@@ -3,8 +3,8 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import path from 'path';
 import {Logger} from './commons/Logger';
-import {RouterWebShop} from './router/RouterWebshop';
-import {RouterWebShopFrontend} from './router/RouterWebshopFrontend';
+import {RouterWebShop} from './router/RouterWebShop';
+import {RouterWebShopFrontend} from './router/RouterWebShopFrontend';
 
 class WebShopBackend {
     constructor() {
@@ -45,7 +45,7 @@ class WebShopBackend {
         this.app.use(bodyParser.json());
         this.app.use('https://ebikeshop.herokuapp.com/backend', this.routerWebShop.getRouter());               // backend      -> http://localhost:3000/webshop
         this.app.use('https://ebikeshop.herokuapp.com/frontend', this.routerWebShopFrontend.getRouter());      // frontend     -> http://localhost:3000/frontend
-        this.app.listen(process.env.PORT ||3000);
+        this.app.listen(process.env.PORT ||8080);
 
         Logger.traceMessage(this.LOGGER_NAME, 'constructor', 'Backend  WebShop : http://localhost:3000/backend');
         Logger.traceMessage(this.LOGGER_NAME, 'constructor', 'Frontend WebShop : http://localhost:3000/frontend');
