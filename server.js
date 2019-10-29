@@ -52,7 +52,7 @@ class WebShopBackend {
     }
 
     static isBackendCall(request) {
-        return request.path.startsWith('https://ebikeshop.herokuapp.com/backend') && request.method !== 'OPTIONS';
+        return request.path.startsWith(express.static(__dirname + '/backend')) && request.method !== 'OPTIONS';
     }
 
 }
