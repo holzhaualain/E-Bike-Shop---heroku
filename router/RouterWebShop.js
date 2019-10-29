@@ -61,7 +61,7 @@ export class RouterWebShop {
         this.router.post('/create/user', async (request, response) => {
             await this.controllerUser.create(request, response);
         });
-        this.router.post('/create/shopping-basket', async (request, response) => {
+        this.router.post('/backend/create/shopping-basket', async (request, response) => {
             await this.controllerShoppingBasket.create(request, response);
         });
         this.router.post('/create/order', authentication.required(), async (request, response) => {
