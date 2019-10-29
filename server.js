@@ -44,7 +44,7 @@ class WebShopBackend {
         this.app.use(bodyParser.urlencoded({extended: false}));
         this.app.use(bodyParser.json());
         this.app.use('https://ebikeshop.herokuapp.com/backend', this.routerWebShop.getRouter());               // backend      -> http://localhost:3000/webshop
-        this.app.use('https://ebikeshop.herokuapp.com/frontend', this.routerWebShopFrontend.getRouter());      // frontend     -> http://localhost:3000/frontend
+        this.app.use('https://ebikeshop.herokuapp.com/', this.routerWebShopFrontend.getRouter());      // frontend     -> http://localhost:3000/frontend
         this.app.listen(process.env.PORT ||8080);
 
         Logger.traceMessage(this.LOGGER_NAME, 'constructor', 'Backend  WebShop : http://localhost:3000/backend');
@@ -52,7 +52,7 @@ class WebShopBackend {
     }
 
     static isBackendCall(request) {
-        return request.path.startsWith('/backend') && request.method !== 'OPTIONS';
+        return request.path.startsWith('https://ebikeshop.herokuapp.com/backend') && request.method !== 'OPTIONS';
     }
 
 }
