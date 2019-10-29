@@ -5,6 +5,9 @@
   "license": "UNLICENSED",
   "version": "0.0.1",
   "author": "Roland Stauffer",
+  "engines": {
+    "node": "12.13.0"
+  },
   "scripts": {
     "start backend": "node start.js",
     "start": "node start.js"
