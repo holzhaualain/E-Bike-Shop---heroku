@@ -43,8 +43,7 @@ class WebShopBackend {
         this.app.use(express.static(path.resolve('public')));                   // images, frontend
         this.app.use(bodyParser.urlencoded({extended: false}));
         this.app.use(bodyParser.json());
-        this.app.use('https://ebikeshop.herokuapp.com/backend', this.routerWebShop.getRouter());               // backend      -> http://localhost:3000/webshop
-        this.app.use('https://ebikeshop.herokuapp.com/', this.routerWebShopFrontend.getRouter());      // frontend     -> http://localhost:3000/frontend
+     
         this.app.listen(process.env.PORT ||8080);
 
         Logger.traceMessage(this.LOGGER_NAME, 'constructor', 'Backend  WebShop : http://localhost:3000/backend');
