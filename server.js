@@ -27,8 +27,6 @@ class WebShopBackend {
         //Authentication
         this.app.use(async (request, response, next) => {
             if(WebShopBackend.isBackendCall(request)) {
-                Logger.traceMessage(this.LOGGER_NAME, 'authentication', request);
-
                 request.authenticated = await this.routerWebShop.getControllerUser().isTokenValid(request);
             }
             next();
