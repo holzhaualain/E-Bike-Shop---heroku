@@ -47,7 +47,7 @@ export class RouterWebShop {
         this.router.get('/backend/orders', authentication.required(), async (request, response) => {
             await this.controllerOrder.getOrders(request, response);
         });
-        this.router.get('/backend/orders/user', async (request, response) => {
+        this.router.get('/backend/orders/user', authentication.required(), async (request, response) => {
             await this.controllerOrder.getOrdersByUser(request, response);
         });
 
