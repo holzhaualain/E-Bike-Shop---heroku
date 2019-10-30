@@ -53,7 +53,7 @@ class WebShopBackend {
 
     static isBackendCall(request) {
         Logger.traceMessage('WebShopBackend', 'isBackendCall', request.path);
-        return request.path.startsWith(express.static(__dirname + '/backend')) && request.method !== 'OPTIONS';
+        return request.path.startsWith('/backend') && request.method !== 'OPTIONS';
     }
 
 }
